@@ -1,6 +1,7 @@
 hello atguigu! hello, git! 222222222222 33333333
 hello atguigu! hello, git! 44444
 hello atguigu! hello, git! hot-fix branch
+hello atguigu! hello, git! 
 hello atguigu! hello, git!
 hello atguigu! hello, git!
 hello atguigu! hello, git!
@@ -14,5 +15,4 @@ hello atguigu! hello, git!
 hello atguigu! hello, git!
 hello atguigu! hello, git!
 hello atguigu! hello, git!
-hello atguigu! hello, git!
-hello atguigu! hello, git!
+hello atguigu! hello, git! master test
